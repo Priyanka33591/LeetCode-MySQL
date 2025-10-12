@@ -4,7 +4,7 @@ This repository stores SQL solutions for selected LeetCode problems. Each proble
 
 ## Repository layout
 
-Examples:
+__Examples:__
 
 - `175. Combine Two Tables/solution.sql`
 - `176. Second Highest Salary/solution.sql`
