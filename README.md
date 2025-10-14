@@ -1,10 +1,10 @@
 # LeetCode-SQL
 
-This repository stores SQL solutions for selected LeetCode problems. Each problem lives in its own folder named after the problem number and (optionally) a short title. Inside each folder, the primary solution is stored in `solution.sql`.
+This repository stores SQL solutions for selected LeetCode problems. Each problem lives in its own folder named and inside each folder, the primary solution is stored in `solution.sql`.
 
 ## Repository layout
 
-Examples:
+__Examples:__
 
 - `175. Combine Two Tables/solution.sql`
 - `176. Second Highest Salary/solution.sql`
