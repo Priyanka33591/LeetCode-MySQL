@@ -25,7 +25,6 @@ Folders include the problem number followed by a short, human-friendly title. Fi
 ## Contributing
 
 - Add new problems as new folders following the naming recommendation.
-- Include a short comment at the top of `solution.sql` describing the approach and time/space complexity if helpful.
 
 ## Notes
 
